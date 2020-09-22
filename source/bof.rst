@@ -24,6 +24,11 @@ Upon agreeing, the schedule will be updated both in Hopin, and Ical.
 Both the conference days, there will be seperate forms to take in the entries
 for BoFs.
 
+Hopin Setup
+-----------
+
+The BoFs will be hosted on Hopin Sessions, **not** on any of the stages.
+
 
 Further Information
 -------------------
