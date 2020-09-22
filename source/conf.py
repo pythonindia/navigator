@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'navigator'
+project = 'PyCon India Navigator'
 copyright = '2020, Sayan Chowdhury'
 author = 'Sayan Chowdhury'
 
