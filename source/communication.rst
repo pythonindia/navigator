@@ -8,6 +8,8 @@ Zulip
 - #jobs
 - #2020/attendees
 - #2020/announcements
+- #2020/discussion
+- #2020/helpdesk
 
 Conference Stage Rooms
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -22,8 +24,6 @@ Event
 
 - #2020/bof
 - #2020/devsprint
-- #2020/discussion
-- #2020/helpdesk
 - #2020/lightning-talks
 
 Sponsor
