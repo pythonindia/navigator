@@ -8,7 +8,7 @@ which is impossible in a offline setting.
 Schedule & Timing
 -----------------
 
-PyCon India 2020 team to accomodate an international audience tried to find a
+PyCon India 2020 team to accommodate an international audience tried to find a
 time that suits speakers, or find a bit of overlap in their day.
 
 The event starts at **12:00 noon IST** and ends at **8:00 PM IST**.
