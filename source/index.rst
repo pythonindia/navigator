@@ -16,6 +16,7 @@ A collection of guides for speakers, organizers, volunteers and attendees.
    communication
    refusals
    bof
+   devsprint
 
 Personas
 --------
