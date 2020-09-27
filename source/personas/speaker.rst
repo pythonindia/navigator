@@ -30,6 +30,8 @@ Some things to remember on the day you're having your session. Make sure that:
 - You've everything you need nearby, like a glass or bottle of water (or snacks in case you need).
 - You've joined the appropriate stream on Zulip according to the stage your in. Please check which stage you're in (Bengaluru, Chennai, Hyderabad, Delhi or Pune).
 
+.. note:: If you are planning to share your screen with **audio**, you will need to have same audio output and input sources, and use Google Chrome to join/share a tab with StreamYard.
+
 
 During your talk
 -----------------
