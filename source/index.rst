@@ -14,6 +14,7 @@ A collection of guides for speakers, organizers, volunteers and attendees.
    handbook
    talks
    communication
+   devsprints
    refusals
    bof
 
