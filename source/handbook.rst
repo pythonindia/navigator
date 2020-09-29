@@ -39,7 +39,7 @@ PyCon India 2020 will have the following set of events during the span of four d
 - Talks
 - Diversity Events
 - Birds of Feathers (BoF)
-- refusals.py
+- .extend()
 - Workshops
 - Dev Sprints
 
