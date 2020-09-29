@@ -15,7 +15,7 @@ A collection of guides for speakers, organizers, volunteers and attendees.
    talks
    communication
    devsprints
-   refusals
+   dotextend
    bof
 
 Personas
