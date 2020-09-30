@@ -20,6 +20,8 @@ Some things to consider in preparation for the conference. Please make sure that
 - You're present on our official communication medium, `Zulip <https://pyconindia.zulipchat.com/>`_ and have joined the stream `#2020/speaker-lounge <https://pyconindia.zulipchat.com/#narrow/stream/258757-2020.2Fspeaker-lounge>`_.
 - You've gone through the schedule on `Hopin` and made sure that your name and links are displayed properly. (If not, please feel free to reach out to us at support@in.pycon.org with your concern.)
 
+.. note:: Talk recording is to be be shared if you are doubtful about setup. In case, you are confident that the setup would work, would can skip sending us the recording. In case of issues, we will have to drop the talk, as we cannot reschedule it.
+
 
 On Conference Day
 ------------------

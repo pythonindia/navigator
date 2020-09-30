@@ -17,6 +17,7 @@ A collection of guides for speakers, organizers, volunteers and attendees.
    devsprints
    dotextend
    bof
+   stageteams
 
 Personas
 --------
