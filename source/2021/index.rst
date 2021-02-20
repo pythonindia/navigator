@@ -11,19 +11,24 @@ A collection of guides for speakers, organizers, volunteers and attendees.
 .. toctree::
    :maxdepth: 2
 
-   2021/handbook
-   2021/talks
-   2021/communication
-   2021/devsprints
-   2021/dotextend
-   2021/bof
-   2021/stageteams
+   handbook
+   talks
+   communication
+   devsprints
+   dotextend
+   bof
+   stageteams
 
-Previous Years
----------------
+Personas
+--------
 
 .. toctree::
    :maxdepth: 1
 
-   2020/index
-
+   personas/stagemoderator
+   personas/speaker
+   personas/bofmoderator
+   personas/refusalsmoderator
+   personas/bofcoordinator
+   personas/expocoordinator
+   personas/jobfaircoordinator

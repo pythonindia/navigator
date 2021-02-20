@@ -7,15 +7,23 @@ thrilled to have you as our speaker, and we are sure that the attendees can't wa
 So, please read through this document as will help the experience of
 everyone in PyCon India an eventful one.
 
+Platforms in PyCon India
+------------------------
+
+- **Hopin**: This is the event platform, where the attendees will the be attending the talks, workshops, keynotes, etc.
+- **Zulip**: This is our official communication/Chat platform where you can interact with other attendees. *Volunteers will be contacting you using the same channel*. So make sure you are available on the platform during the conference. Please follow the link[1], to join the platform. It will automatically join you in the required streams (similar to channel in slack). Send a message on #2020/speaker-lounge channel once you are checked-in for the event.
+- **Streamyard**: This platform is our Broadcast Studio i.e. all the speakers will be joining here to give the talk. The video stream from here will be relayed to Hopin platform. You need to be available 15 minutes before your talk slot on the url. Exact url will be provided by volunteer on #2020/speaker-lounge stream.
+
+.. note:: Streamyard is the platform where the speakers will join to present the talk, and not Hopin.
 
 Preparing for your talk
 ------------------------
 
 Some things to consider in preparation for the conference. Please make sure that:
 
-- You have gone through at least one call with our rehearsal team.
+- You have gone through at least one call with our rehearsal team. This is not applicable if you are selected in the `.extend()` track
 - Your talk details are displayed correctly on the website.
-- You've your talk recorded and shared with our team in case of any mishappenings with network or bandwidth issues. We would prefer for you to be present and interact with the participants, However, we understand technological challenges that may arise due to unforeseen circumstances.
+- You've your talk recorded and shared with our team in case of any mishappenings with network or bandwidth issues. The talks need to be presented live so that you can interact with the participants. However, we understand technological challenges that may arise due to unforeseen circumstances.
 - You've checked your internet connection and are connected to at least a 1Mbps or more on upload/download speed.
 - You're present on our official communication medium, `Zulip <https://pyconindia.zulipchat.com/>`_ and have joined the stream `#2020/speaker-lounge <https://pyconindia.zulipchat.com/#narrow/stream/258757-2020.2Fspeaker-lounge>`_.
 - You've gone through the schedule on `Hopin` and made sure that your name and links are displayed properly. (If not, please feel free to reach out to us at support@in.pycon.org with your concern.)
@@ -57,21 +65,21 @@ Streamyard provides a `good video tutorial <https://youtu.be/An5ko-YEp1o?t=922>`
 - The moderator will share the link for your Broadcast studio on the Zulip channel, `#2020/speaker-lounge <https://pyconindia.zulipchat.com/#narrow/stream/258757-2020.2Fspeaker-lounge>`_.
 - Once head over to the Streamyard, you will be seeing the screen shown below:
 
-.. image:: ../_static/stream1.png
+.. image:: ../../_static/stream1.png
    :height: 400
 
 This screen is to test your video and microphone.
 
 - After you enter the Broadcast studio, you will be placed in the Backstage which looks like this:
 
-.. image:: ../_static/stream3.png
+.. image:: ../../_static/stream3.png
    :width: 400
 
 The moderator can selectively move or remove you from the screen. The first thing you can do after logging in is to drop a message to the moderator via Private Chat on the right.
 
 - Once you enter the stream, you will see the toolbar (refer to the picture given below):
 
-.. image:: ../_static/stream2.png
+.. image:: ../../_static/stream2.png
    :width: 400
 
 - The first button is "Mute" to control your microphone. Click it to enable and disable the microphone
@@ -85,12 +93,12 @@ The moderator can selectively move or remove you from the screen. The first thin
 - On the right-hand side you can see the Private Chat. When you are in backstage the **only way to interact with the moderator is to use private chat.**. As mentioned before,
   as soon as you enter the backstage, let the moderator know through the private chat.
 
-.. image:: ../_static/stream4.png
+.. image:: ../../_static/stream4.png
    :height: 400
 
 - You will be entering the Streamyard platform 5-10 mins before your talk which means it possible that there will be an ongoing talk when you enter. As soon as the talk end, you can share your screen. Once you are sharing your screen, your shared screen would also be added into the backstage as shown in the image below:
 
-.. image:: ../_static/steam3_5.png
+.. image:: ../../_static/steam3_5.png
    :width: 400
 
 

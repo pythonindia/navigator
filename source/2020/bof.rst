@@ -29,6 +29,12 @@ Hopin Setup
 
 The BoFs will be hosted on Hopin Sessions, **not** on any of the stages.
 
+As a Moderator
+--------------
+
+- At the very beginning of the BoF, you have to say "This BoF is under PyCon India 2020 Code of Conduct. So, Please be mindful of what you speak. In short, please be respectful to others"
+- Enforce the CoC, or report immediately to CoC WG if you see a violation.
+
 
 Further Information
 -------------------
