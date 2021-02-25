@@ -18,11 +18,11 @@
 # -- Project information -----------------------------------------------------
 
 project = 'PyCon India Navigator'
-copyright = '2020, Sayan Chowdhury'
-author = 'Sayan Chowdhury'
+copyright = 'PyCon India Team'
+author = 'PyCon India Team'
 
 # The full version, including alpha/beta/rc tags
-release = '0.1.0'
+release = '2021.0.0'
 
 
 # -- General configuration ---------------------------------------------------
