@@ -11,7 +11,7 @@ How is it different than being a volunteer?
 -------------------------------------------
 
 Everyone contributing towards the organizing the conference is counted as a volunteer. Shadows are only different in the sense that they are expected
-to devote more time to their workgroup as one of them is expected to be a workgroup for later conferences.
+to devote more time to their workgroup as one of them is expected to be a workgroup lead for later conferences.
 
 How do I become a shadow?
 -------------------------
