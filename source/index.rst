@@ -12,12 +12,7 @@ A collection of guides for speakers, organizers, volunteers and attendees.
    :maxdepth: 2
 
    2021/handbook
-   2021/talks
-   2021/communication
-   2021/devsprints
-   2021/dotextend
-   2021/bof
-   2021/stageteams
+   2021/shadow
 
 Previous Years
 ---------------
@@ -26,4 +21,3 @@ Previous Years
    :maxdepth: 1
 
    2020/index
-   2021/index
