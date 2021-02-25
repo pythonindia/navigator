@@ -1,5 +1,5 @@
-Shadowing
-=========
+Shadow Program
+==============
 
 The shadow program is meant to be a way to mentor volunteers to take up the workgroup/conference chair role for the subsequent conference cycles.
 
@@ -52,3 +52,4 @@ Inspirations
 ------------
 
 - `Kubernetes Release Team shadow program <https://github.com/kubernetes/sig-release/blob/master/release-team/shadows.md>`_
+- `Fedora Infrastructure Apprentice Program <https://fedoraproject.org/wiki/Infrastructure_Apprentice>`_

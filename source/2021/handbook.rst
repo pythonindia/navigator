@@ -1,4 +1,4 @@
-PyCon India 2020 Handbook
+PyCon India 2021 Handbook
 =========================
 
 Introduction
@@ -14,26 +14,26 @@ and the attendees, speakers, and the sponsors having a good time during the conf
 Working Groups
 --------------
 
-PyCon India 2020 is divided into various Working Groups (WG)
+PyCon India 2021 is divided into various Working Groups (WG)
 
 - Call For Proposals WG
 - Code of Conduct WG
-- Content WG
-- Design WG
-- Dev Sprints WG
+- Content & Design WG
+- Dev Sprints & Workshops WG
 - Diversity WG
-- Mentorship WG
+- Finance & Tickets WG
+- Mentorship/Editorial WG
+- Outreach & Communication WG
 - Platform WG
 - Review Panel WG
-- Social Media WG
-- Sponsorship WG
+- Sessions WG
+- Support WG
 - Technology WG
-- Tickets WG
 
 Events
 ------
 
-PyCon India 2020 will have the following set of events during the span of four days
+PyCon India 2021 will have the following set of events during the span of four days
 
 - Keynotes
 - Talks
@@ -46,11 +46,11 @@ PyCon India 2020 will have the following set of events during the span of four d
 Stack Knowledge Base
 --------------------
 
-PyCon India 2020 is an online event, built on a stack of multiple platforms, vendor partners.
+PyCon India 2021 is an online event, built on a stack of multiple platforms, vendor partners.
 
 - Github: Hosts website, blog, assets, and badges
 - TownScript: Ticketing Vendor
-- Hopin: The event platform that would host PyCon India 2020
+- Hopin: The event platform that would host PyCon India 2021
 - Twitter, Facebook, Linkedin: Social Media Platform.
 
 Moving ahead a more in-depth documentation about the platforms, event, and WGs
