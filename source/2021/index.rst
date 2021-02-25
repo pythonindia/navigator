@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-PyCon India 2020
+PyCon India 2021
 ================
 
 A collection of guides for speakers, organizers, volunteers and attendees.
@@ -18,6 +18,7 @@ A collection of guides for speakers, organizers, volunteers and attendees.
    dotextend
    bof
    stageteams
+   shadowing
 
 Personas
 --------
