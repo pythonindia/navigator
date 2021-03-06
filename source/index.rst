@@ -12,8 +12,8 @@ A collection of guides for speakers, organizers, volunteers and attendees.
    :maxdepth: 2
 
    2021/handbook
-   2021/volunteer
    2021/shadow
+   2021/volunteer
 
 Previous Years
 ---------------
