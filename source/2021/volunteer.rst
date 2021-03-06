@@ -10,7 +10,9 @@ PyCon India is a volunteer driven conference. Like every year, we need enthusias
 Call for Volunteers
 -------------------
 
-Call for Volunteer is the first announcement made by thee core volunteers to extend the team. This year's annoucement was made through `email <https://mail.python.org/pipermail/inpycon/2021-February/013149.html>`_ on the official mailing list and a `tweet <https://twitter.com/pyconindia/status/1365276202496270340>`_ thought official twitter account.
+Call for Volunteer is the announcement made by the core PyCon India team to extend the team. This also includes  the details needed for the Shadow program.
+
+This process is kickstarted by sending an announcement `email <https://mail.python.org/pipermail/inpycon/2021-February/013149.html>`_ to the inpycon mailing list and a `tweet <https://twitter.com/pyconindia/status/1365276202496270340>`_ through our official Twitter account.
 
 The annoucement should contain details about the tasks volunteers have to do and different places where they can contribute. Also, we need to take details from the interested folks so we can reach out to them whenever we're short of volunteers. This year, it was done by the means of a `Google Form <https://forms.gle/v7xHpz2RHbwaVQ6T6>`_.
 
