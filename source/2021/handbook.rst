@@ -59,3 +59,8 @@ Moving ahead a more in-depth documentation about the platforms, event, and WGs
    :maxdepth: 2
 
    talks
+
+.. toctree::
+   :maxdepth: 1
+
+   personas/speaker
