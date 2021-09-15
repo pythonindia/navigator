@@ -62,7 +62,7 @@ We have prepared a small video of the StreamYard flow. Watch it before proceedin
 
 .. raw:: html
 
-   <iframe width="650" height="366" src="https://www.youtube-nocookie.com/embed/oKImYhMlkV8" title="YouTube video player" frameborder="0" allow="picture-in-picture" allowfullscreen></iframe>
+   <iframe width="650" height="366" src="https://www.youtube-nocookie.com/embed/ibZqde42L1Y" title="YouTube video player" frameborder="0" allow="picture-in-picture" allowfullscreen></iframe>
 
 - Send a check-in message on the `#2021/speaker-lounge <https://pyconindia.zulipchat.com/#narrow/stream/2021.2Fspeaker-lounge>`_ Zulip stream **30 minutes** before your talk.
 - The speaker coordinator will share the link for your Broadcast studio on the Zulip.
