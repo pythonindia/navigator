@@ -64,3 +64,4 @@ Moving ahead a more in-depth documentation about the platforms, event, and WGs
    :maxdepth: 1
 
    personas/speaker
+   personas/stagemoderator

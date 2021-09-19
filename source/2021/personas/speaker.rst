@@ -1,3 +1,5 @@
+.. _2021/personas/speaker:
+
 I am a speaker, help me setup!
 ==============================
 
@@ -51,7 +53,7 @@ Here are a few things for you to follow during your talk. Please make sure you'v
 
 - Joined the StreamYard link shared by the speaker coordinator.
 - Tested your video and screen with the moderator before your talk starts so that once we're live, the participants don't have to wait.
-- You will have a total of 30 minutes for your talk. We suggest keeping the last 5 minutes for any Q/A. In case you would like to take Q/A offline, please make sure you have informed about your choice to the stage moderators.
+- You will have a total of 30 minutes for your talk. We suggest keeping the last 5 minutes for any Q&A. In case you would like to take Q&A offline, please make sure you have informed about your choice to the stage moderators.
 - You will be given a warning as you approach closer to the end time. 1st warning at 5 minutes to the end. 2nd warning at 2 minutes to the end. Your session will end at the end of 30 minutes. This will be strictly maintained so please make sure that you've concluded by then.
 - The moderators will show the questions as given by the participants on the screen and read those out. You can take them accordingly.
 
@@ -113,7 +115,7 @@ We have prepared a small video of the StreamYard flow. Watch it before proceedin
   .. image:: ../../_static/stream_questions.png
      :width: 400
 
-Offline Q/A
+Offline Q&A
 -----------
 
 After your talk, audience might have more questions. They will be posting those questions on the stage specific Zulip streams. You can head over to the stage specific stream, and continue the discussion there.
