@@ -13,6 +13,7 @@ A collection of guides for speakers, organizers, volunteers and attendees.
 
    2021/handbook
    2021/shadow
+   2021/volunteer
 
 Previous Years
 ---------------
