@@ -3,32 +3,25 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-PyCon India 2021
+PyCon India Handbook
 ================
 
 A collection of guides for speakers, organizers, volunteers and attendees.
 
-.. toctree::
-   :maxdepth: 2
-
-   2021/handbook
-   2021/shadow
-   2021/volunteer
-
-
-Platforms
+Participate
 =========
 
 .. toctree::
    :maxdepth: 1
 
-   platforms/zulip
-   2021/hopin
+   participate/volunteer
+   participate/community-partner
 
-Previous Years
----------------
+Archived
+=========
 
 .. toctree::
    :maxdepth: 1
 
-   2020/index
+   archive/2021
+   archive/2020
