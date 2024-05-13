@@ -9,6 +9,12 @@ python -m http.server -d build/html &
 _pid=$!
 echo "Press Ctrl-c to exit"
 
+# if [ "$(uname)" == "Darwin" ]; then
+# elif [ "$(expr substr $(uname -s) 1 5)" == "Linux" ]; then
+# elif [ "$(expr substr $(uname -s) 1 10)" == "MINGW32_NT" ]; then
+# elif [ "$(expr substr $(uname -s) 1 10)" == "MINGW64_NT" ]; then
+# fi
+
 watcher() {
     buildsum1=""
     sourcesum1=""
