@@ -19,7 +19,7 @@
 
 project = 'PyCon India Navigator'
 copyright = 'PyCon India Team'
-author = 'PyCon India Team'
+author = 'PyCon India Team - '
 
 # The full version, including alpha/beta/rc tags
 release = '2024.0.0'
