@@ -18,7 +18,4 @@ make html
 
 ## Run locally:
 
-Go inside `build/html`:
-```sh
-./daemon.sh
-```
+Run `daemon.sh` for reload support while developing.
