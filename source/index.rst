@@ -18,48 +18,46 @@ Working Groups
 
 PyCon India is divided into various Working Groups (WG)
 
-- Call For Proposals WG
-- Code of Conduct WG
-- Content & Design WG
-- Dev Sprints & Workshops WG
-- Diversity WG
-- Finance & Tickets WG
-- Mentorship/Editorial WG
-- Outreach & Communication WG
-- Platform WG
-- Review Panel WG
-- Sessions WG
-- Support WG
-- Technology WG
+* Call For Proposals (CFP) WG
+    * Talks
+    * Workshop
+    * DevSprint
+    * Poster, BoF, Panel
+* Mentorship/Editorial & Review WG
+* Outreach & Communication WG
+* Code of Conduct (CoC) WG
+* Technology WG
+    * Website
+    * Platform
+* Finance & Tickets WG
+* Sponsorship WG
+* Diversity WG
+* Creative WG
+    * Design WG
+    * Content WG
+* Event Ops WG
+    * Logistics
+        * AV
+        * Food
+        * Internet
+        * Badges
+        * Banners
+    * Sessions
+    * Facilities
+    * Volunteer Management
+* Research & Development WG
 
 Events
 ------
 
-PyCon India 2021 will have the following set of events during the span of four days
+[PyCon India 2024](https://in.pycon.org/2024) will have the following set of events during the span of four days:
 
-- Keynotes
-- Talks
-- Diversity Focused Sessions
-- Birds of Feathers (BoF)
-- Workshops
-- DevSprint
-
-Stack Knowledge Base
---------------------
-
-PyCon India 2021 is an online event, built on a stack of multiple platforms, vendor partners.
-
-- Github: Hosts website, blog, assets, and badges
-- TownScript: Ticketing Vendor
-- Hopin: The event platform that would host PyCon India 2021
-- Twitter, Facebook, Linkedin: Social Media Platform.
-
-Moving ahead a more in-depth documentation about the platforms, event, and WGs
-
-.. toctree::
-   :maxdepth: 2
-
-   talks
+* Keynotes
+* Talks CFP_
+* Diversity Focused Sessions
+* Birds of Feathers (BoF)
+* Workshops CFP_
+* DevSprint
 
 Participate
 =========
@@ -84,3 +82,6 @@ Archived
 
    archive/2021
    archive/2020
+
+
+.. _CFP: https://in.pycon.org/cfp/2024/proposals/
