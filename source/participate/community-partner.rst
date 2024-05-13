@@ -85,11 +85,13 @@ Who may not qualify as a community partner
 Contact
 Mail: contact@in.pycon.org
 
-1 - Community Program Co-ordinator
-Mobile: +91 
+.. list-table:: Community Partner Coordinators
+   :widths: 50 50
+   :header-rows: 1
 
-2 - Community Program Co-ordinator
-Mobile: +91 95479 96145
-
-3 - Community Program Co-ordinator
-Mobile: +91 
+   * - Volunteer
+     - Contact
+   * - Koti
+     - +91 888 655 4433
+   * - Bharat
+     - +91 868 095 1506
