@@ -2,9 +2,9 @@ Community Partner Program
 ==================
 
 PyCon India is the largest gathering of Pythonistas in India. This premiere conference on using and
-developing the Python programming language will be held in Hyderabad this year.
+developing the Python programming language will be held in Bengaluru this year.
 
-PyCon India is the annual conference of the Python community in India, which brings together developers, experts, academics, scientists and enthusiasts from all over India and abroad. It is one of the largest Python conferences in Asia. Your partnership helps to spread the word about our wonderful conference and reach wider audience.
+PyCon India is the annual conference of the Python community in India, which brings together developers, experts, academics, scientists and enthusiasts from all over India and abroad. It is one of the largest Python conferences in Asia. Your partnership helps to spread the word about our wonderful conference and reach a wider audience.
 
 About
 -----
@@ -20,11 +20,13 @@ Create a stronger and more vibrant tech ecosystem in India, contributing to the 
 Active Communities in various cities across India
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-10000+ On Twitter
+10900+ On Twitter
 
 50000+ On Local User Groups
 
-6600+ On Facebook
+6500+ On Facebook
+
+7600+ On LinkedIn
 
 1200+ Participation
 
@@ -33,7 +35,7 @@ Objectives
 
 1. **Collaboration:** The program strives to collaborate with diverse communities interested in Python
 and related technologies. This collaboration involves joint events, workshops, webinars, and
-knowledge sharing initiatives, fostering a robust network of Python enthusiasts.
+knowledge-sharing initiatives, fostering a robust network of Python enthusiasts.
 
 2. **Outreach:** By partnering with various communities, PyCon India extends its reach and engages
 with a broader audience. This includes reaching out to communities in different cities, towns, and
@@ -52,8 +54,7 @@ Expectations
 From You
 ^^^^^^^^
 
-- Introduce PyCon India to your community by creating an event on your platform and share the event on
-your Social Media channels.
+- Introduce PyCon India to your community by creating an event on your platform and sharing the event on your Social Media channels.
 - Regularly post updates about the conference to your community members.
 - Follow the conference's Code of Conduct at all times.
 
@@ -63,16 +64,16 @@ From Us
 - Provide special discount coupons for the conference to your community members.
 - Acknowledgement of your community in opening and closing address.
 - Your community logo on the website.
-- Access to community openspace to engage with attendees.
+- Access to community open space to engage with attendees.
 
-Who can become a community partner
+Who can become a community partner?
 ----------------------------------
 
 - **Open-Source Organizations:** Projects that contribute to the tech community through the development of open-source libraries, frameworks, tools, or software.
-- **Non-Profit Organizations:** Non-profit entities dedicated to promoting technology, supporting developers.
+- **Non-Profit Organizations:** Non-profit entities dedicated to promoting technology, and supporting developers.
 - **Technology communities and user groups:** Local or regional Python user groups, developer communities, or tech-focused organizations that engage and support tech enthusiasts.
 
-Who may not qualify as a community partner
+Who may not qualify as a community partner?
 ------------------------------------------
 
 - **Unrelated or Unfitting Groups:** These are entities that lack a distinct link or pertinence to the Python community, its growth, or its intended goals.

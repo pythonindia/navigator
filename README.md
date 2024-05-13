@@ -20,5 +20,5 @@ make html
 
 Go inside `build/html`:
 ```sh
-python -m http.server
+./daemon.sh
 ```
