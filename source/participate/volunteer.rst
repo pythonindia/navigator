@@ -1,9 +1,6 @@
 Volunteering
 ============
 
-Introduction
-------------
-
 PyCon India is a volunteer driven conference. Like every year, we need enthusiastic and driven volunteer drive to make PyCon India successful.
 
 
