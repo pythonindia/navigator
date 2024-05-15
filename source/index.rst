@@ -18,39 +18,54 @@ Working Groups
 
 PyCon India is divided into various Working Groups (WG)
 
-* Call For Proposals (CFP) WG
-    * Talks
-    * Workshop
-    * DevSprint
-    * Poster, BoF, Panel
-* Mentorship/Editorial & Review WG
-* Outreach & Communication WG
-* Code of Conduct (CoC) WG
-* Technology WG
-    * Website
-    * Platform
-* Finance & Tickets WG
-* Sponsorship WG
-* Diversity WG
-* Creative WG
-    * Design WG
-    * Content WG
-* Event Ops WG
-    * Logistics
-        * AV
-        * Food
-        * Internet
-        * Badges
-        * Banners
-    * Sessions
-    * Facilities
-    * Volunteer Management
-* Research & Development WG
+.. toctree::
+   :maxdepth: 2
+
+   wg/cfp
+   wg/review
+   wg/comms
+   wg/coc
+   wg/tech
+   wg/finance
+   wg/sponsorship
+   wg/diversity
+   wg/creative
+   wg/ops
+   wg/rnd
+
+.. * Call For Proposals (CFP) WG
+..     * Talks
+..     * Workshop
+..     * DevSprint
+..     * Poster, BoF, Panel
+.. * Mentorship/Editorial & Review WG
+.. * Outreach & Communication WG
+.. * Code of Conduct (CoC) WG
+.. * Technology WG
+..     * Website
+..     * Platform
+.. * Finance & Tickets WG
+.. * Sponsorship WG
+.. * Diversity WG
+.. * Creative WG
+..     * Design WG
+..     * Content WG
+.. * Event Ops WG
+..     * Logistics
+..         * AV
+..         * Food
+..         * Internet
+..         * Badges
+..         * Banners
+..     * Sessions
+..     * Facilities
+..     * Volunteer Management
+.. * Research & Development WG
 
 Events
 ------
 
-[PyCon India 2024](https://in.pycon.org/2024) will have the following set of events during the span of four days:
+`PyCon India 2024 <https://in.pycon.org/2024>`_ will have the following set of events during the span of four days:
 
 * Keynotes
 * Talks CFP_
