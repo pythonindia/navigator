@@ -21,46 +21,17 @@ PyCon India is divided into various Working Groups (WG)
 .. toctree::
    :maxdepth: 2
 
-   wg/cfp
-   wg/review
-   wg/comms
-   wg/coc
-   wg/tech
-   wg/finance
-   wg/sponsorship
-   wg/diversity
-   wg/creative
-   wg/ops
-   wg/rnd
-
-.. * Call For Proposals (CFP) WG
-..     * Talks
-..     * Workshop
-..     * DevSprint
-..     * Poster, BoF, Panel
-.. * Mentorship/Editorial & Review WG
-.. * Outreach & Communication WG
-.. * Code of Conduct (CoC) WG
-.. * Technology WG
-..     * Website
-..     * Platform
-.. * Finance & Tickets WG
-.. * Sponsorship WG
-.. * Diversity WG
-.. * Creative WG
-..     * Design WG
-..     * Content WG
-.. * Event Ops WG
-..     * Logistics
-..         * AV
-..         * Food
-..         * Internet
-..         * Badges
-..         * Banners
-..     * Sessions
-..     * Facilities
-..     * Volunteer Management
-.. * Research & Development WG
+   wg/cfp/index
+   wg/review/index
+   wg/comms/index
+   wg/coc/index
+   wg/tech/index
+   wg/finance/index
+   wg/sponsorship/index
+   wg/diversity/index
+   wg/creative/index
+   wg/ops/index
+   wg/rnd/index
 
 Events
 ------
