@@ -80,8 +80,8 @@ Archived
 .. toctree::
    :maxdepth: 1
 
-   archive/2021
-   archive/2020
+   archive/2021/index
+   archive/2020/index
 
 
 .. _CFP: https://in.pycon.org/cfp/2024/proposals/
