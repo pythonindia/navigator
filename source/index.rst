@@ -41,7 +41,7 @@ Events
 * Keynotes
 * Talks CFP_
 * Diversity Focused Sessions
-* Birds of Feathers (BoF)
+* Birds of Feathers (BoF_)
 * Workshops CFP_
 * DevSprint
 
@@ -57,6 +57,7 @@ Participate
 .. toctree::
    :maxdepth: 1
 
+   personas/ticketingadmin
    personas/speaker
    personas/stagemoderator
 
@@ -71,3 +72,4 @@ Archived
 
 
 .. _CFP: https://in.pycon.org/cfp/2024/proposals/
+.. _BoF: https://in.pycon.org/cfp/bofs-and-posters-2024/proposals/
