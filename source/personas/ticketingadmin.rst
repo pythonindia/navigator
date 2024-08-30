@@ -21,14 +21,3 @@ For cancelling a ticket you need to first Cancel and then Refund the ticket.
    3. Check Ticket Invoice URL for the Buyer and note the Processing fee.
    4. Click the Money icon from Quick Action section. This will open a Modal with the total ticket price mentioned. Subtract Processing fee from total amount.
    5. Update the amount in the text box and click Refund button.
-
-Transfer
----------
-* Go to Participants > Attendees Page from the Admin Dashboard
-* Search attendee via email
-* Click the Transfer icon. This will open a Attendee detail form
-.. image:: ../../_static/ticketingadmin/konfhub-ticket-actions.png
-     :width: 400
-
-* Update the details of the person to whom the ticket has to be transferred. Click Save. 
-This will transfer the ticket and send an email to the updated attendee with the ticket.
