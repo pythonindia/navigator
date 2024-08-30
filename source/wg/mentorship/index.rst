@@ -1,9 +1,5 @@
-Mentorship/Editorial & Review WG
+Mentorship Workgroup
 ================================
 
-Review
-------
-
-Mentorship
-----------
-
+.. toctree::
+   speaker-guidelines

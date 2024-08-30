@@ -24,6 +24,7 @@ PyCon India is divided into various Working Groups (WG)
    wg/cfp/index
    wg/review/index
    wg/comms/index
+   wg/mentorship/index
    wg/coc/index
    wg/tech/index
    wg/finance/index
