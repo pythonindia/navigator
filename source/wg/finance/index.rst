@@ -10,7 +10,7 @@ Tickets for PyCon India 2024 are available on Konfhub, our Ticketing and Finance
 
 Cancellation Policy
 ^^^^^^^^^^^^^^^^^^^
-In the unfortunate event where people cannot attend the Conference they can cancel their ticket by sending an email to tickets@in.pycon.org. Cancellation is subject to Terms and Conditions mentioned below. Ticketing team will process the Cancellation and the amount will be refunded to the original payment method. Cancellations requests will be accepted till 14th August 2024, 23.59 IST.
+In the unfortunate event where people cannot attend the Conference they can cancel their ticket by sending an email to tickets@in.pycon.org. Cancellation is subject to Terms and Conditions mentioned below. Ticketing team will process the Cancellation and the amount will be refunded to the original payment method. Cancellations requests will be accepted till 25th August 2024, 23.59 IST.
 
 **Terms and Conditions:**
 
@@ -37,4 +37,4 @@ City
 
 T shirt size
 
-Our Ticketing Team will take care of the Transfer. Transfer requests will be accepted till 7th September 2024, 23.59 IST.
+Our Ticketing Team will take care of the Transfer. Transfer requests will be accepted till 11th September 2024, 23.59 IST.
